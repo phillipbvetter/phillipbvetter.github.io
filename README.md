@@ -1,6 +1,6 @@
-# Phillip B Vetter's Homepage
+# Phillip Brinck Vetter's Github Repository
 
-This is the homepage of my Github Pages. See the following packages
+This is the homepage of my [Github](https://github.com/phillipbvetter) profile Github Pages. See the following packages
 
 ## [ctsmrTBM](..ctrsmtTMB)
 
