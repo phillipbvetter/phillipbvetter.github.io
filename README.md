@@ -2,7 +2,7 @@
 
 This is the homepage of my [Github](https://github.com/phillipbvetter) profile Github Pages. See the following packages
 
-## [ctsmrTBM](..ctrsmtTMB)
+## [ctsmrTBM](https://github.com/phillipbvetter/ctsmrTMB)
 
 Continous Time Stochastic Modelling in R using Template Model Builder.
 
