@@ -1,8 +1,8 @@
 # Phillip Brinck Vetter's Github Repository
 
-This is the homepage of my [Github](https://github.com/phillipbvetter) profile Github Pages. See the following packages
+This is the homepage of my [Github](https://github.com/phillipbvetter) profile. I have highlighted some of the work you can find there below 
 
-## [ctsmrTBM](https://github.com/phillipbvetter/ctsmrTMB)
+## [ctsmrTBM](https://phillipbvetter.github.io/ctsmrTMB/)
 
 Continous Time Stochastic Modelling in R using Template Model Builder.
 
