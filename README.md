@@ -1,1 +1,9 @@
-# phillipbvetter.github.io
+# Phillip B Vetter's Homepage
+
+This is the homepage of my Github Pages. See the following packages
+
+## [ctsmrTBM](..ctrsmtTMB)
+
+Continous Time Stochastic Modelling in R using Template Model Builder.
+
+This is a package for parameter and state estimation and forecasting in stochastic state space systems, that is a system whose (latent) states evolve according to a system of stochastic differential equations that are (in)directly observed as specified by a series of noisy measurement equations.
