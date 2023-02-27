@@ -12,6 +12,6 @@ This is a package for parameter and state estimation and forecasting in stochast
 dx_{t} = f(t,x_{t},u_{t}) \, dt + g(t,x_{t},u_{t}) \, dB_{t}
 ```
 ```math
-y_(t_{k}) = h(x_{t_k}) + \varepsilon
+y(t_{k}) = h(x_{t_k}) + \varepsilon
 
 ```
